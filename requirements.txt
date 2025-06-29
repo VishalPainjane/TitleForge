@@ -2,3 +2,6 @@ arxiv
 pandas 
 tqdm
 ujson
+scikit-learn
+transformers
+datasets
